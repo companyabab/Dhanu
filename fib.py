@@ -5,4 +5,6 @@ print (mydate.strftime("%A"))
 print ("dhanu")
 print ("auto triggring this time")
 print ("lets try this time")
+print ("one more time ")
+
 
